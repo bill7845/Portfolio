@@ -2,7 +2,7 @@
 
 <br>
 
-## 분석 프로젝트
+## Analytics
 > RNN 기반 전력수요량 예측
 
 > "Make a Book" 
@@ -10,13 +10,13 @@
 
 <br>
 
-## 웹 프로젝트
+## Web
 > "BeFriend"
 > 외국인 유학생을위한 웹 서비스 개발
 
 <br>
 
-## 크롤러 활용 데이터 수집
+## Web Crawler
 > Jsoup,Selenium 활용 부동산 데이터 수집
 
 <br>
