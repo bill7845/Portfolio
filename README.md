@@ -10,13 +10,13 @@
 
 <br>
 
-## Web
+## * Web
 > "BeFriend"
 > 외국인 유학생을위한 웹 서비스 개발
 
 <br>
 
-## Web Crawler
+## * Web Crawler
 > Jsoup,Selenium 활용 부동산 데이터 수집
 
 <br>
