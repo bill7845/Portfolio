@@ -5,7 +5,7 @@
 ## * Analytics
 > RNN 기반 전력수요량 예측
 
-> "Make a Book" 
+> "Make a Book" <br>
 > 감성기반 사용자 분류를 통한 맞춤형 텍스트 추천 및 브런치북 생성 ( * 기존 브런치 서비스 개선)
 
 <br>
