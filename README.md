@@ -2,7 +2,7 @@
 
 <br>
 
-## Analytics
+## * Analytics
 > RNN 기반 전력수요량 예측
 
 > "Make a Book" 
