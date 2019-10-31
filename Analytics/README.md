@@ -36,7 +36,9 @@
 > 4. Test 200세대의 군집별 예측
 
 #### 모델링 결과 예측치와 실제 관측치 비교
-![실제값](https://user-images.githubusercontent.com/35517797/67937631-43951c80-fc11-11e9-81b4-1cad520a1397.png)
+* 실제값에 대한 그래프
+![실제값](https://user-images.githubusercontent.com/35517797/67937631-43951c80-fc11-11e9-81b4-1cad520a1397.png> 
+* 예측값에 대한 그래프 
 ![예측](https://user-images.githubusercontent.com/35517797/67937638-47c13a00-fc11-11e9-8bc4-99982481a400.png)
 
 #### 4. 나는 프로젝트를 통해 무엇을 배우고 느꼈는가
