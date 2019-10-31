@@ -39,9 +39,7 @@
 
 * 실제값에 대한 그래프 <br>
 
-![실제값](https://user-images.githubusercontent.com/35517797/67937631-43951c80-fc11-11e9-81b4-1cad520a1397.png> 
-
-<br>
+![실제값](https://user-images.githubusercontent.com/35517797/67937631-43951c80-fc11-11e9-81b4-1cad520a1397.png)
 
 * 예측값에 대한 그래프 <br>
 
