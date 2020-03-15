@@ -6,6 +6,8 @@
 
 * [1. Overview](Overview/)
   * [1.1 분석목표](Overview/분석목표/)
+* [2. Exploratory Data Analysis](Exploratory Data Analysis/)
+* [3. Data Preprocessing](Data Preprocessing/)
 
 ---
 
