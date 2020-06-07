@@ -4,10 +4,10 @@
 에너지 빅데이터를 활용한 전력수요 예측
 
 ## 프로젝트 팀원
-박기혁 : PM(Project Manager),Modeling
-김태범 : Modeling & Algorithm
-이상훈 : Modeling & Visualization
-한윤영 : Modeling & Visualization
+박기혁 : PM(Project Manager),Modeling <br>
+김태범 : Modeling & Algorithm <br>
+이상훈 : Modeling & Visualization <br>
+한윤영 : Modeling & Visualization <br>
 
 ## 교육과정
 파이썬 기반 빅데이터 엔지니어 양성과정
