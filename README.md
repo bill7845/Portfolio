@@ -10,13 +10,13 @@
 <br>
 
 ## * NLP
-> "Brunch Networking <br>
+> "`Brunch Networking`" <br>
 > 머신러닝을 활용한 Text 자동 분류 및 추천 시스템
 
 <br>
 
 ## * Web Project
-> "BeFriend" <br>
+> `"BeFriend"` <br>
 > 외국인 유학생을위한 웹 서비스 개발
 
 <br>
