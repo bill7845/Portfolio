@@ -2,9 +2,9 @@
 
 <br>
 
-* 1. Cohort 분석
-* 2. Rolling Retention 분석
-* 3. RFM기반 고객 세분화
+* Cohort 분석
+* Rolling Retention 분석
+* RFM기반 고객 세분화
 
 ### Data Set
 
