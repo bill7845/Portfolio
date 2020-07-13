@@ -23,7 +23,7 @@
 
 ## * Web Crawler
 > Jsoup,Selenium 활용 부동산 데이터 수집
-> BeautifulSoup,Selenium 활용 `브런치` 텍스트 데이터 수집
+> BeautifulSoup,Selenium 활용 브런치 텍스트 데이터 수집
 
 
 
