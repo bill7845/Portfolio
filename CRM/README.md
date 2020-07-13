@@ -2,9 +2,9 @@
 
 <br>
 
-* Cohort 분석
-* Rolling Retention 분석
-* RFM기반 고객 세분화
+* `Cohort` 분석
+* `Rolling Retention` 분석
+* `RFM`기반 고객 세분화
 
 <br>
 
