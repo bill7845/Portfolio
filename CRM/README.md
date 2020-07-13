@@ -6,6 +6,8 @@
 * Rolling Retention 분석
 * RFM기반 고객 세분화
 
+<br>
+
 ### Data Set
 
 - 데이터 출처 : http://archive.ics.uci.edu/ml/datasets/Online+Retail/
