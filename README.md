@@ -3,16 +3,15 @@
 <br>
 
 ## * Analytics
-> Dacon 전력 수요량 예측 <br>
-> Dacon 따릉이 수요 예측 <br>
-> Dacon 아파트 실거래가 예측 <br>
-> 온라인 상점 데이터를 활용한 마케팅 분석
+> Dacon_전력 수요량 예측 모델링 <br>
+> Dacon_따릉이 수요 예측 모델링 <br>
+> CRM_온라인 상점 데이터 분석
 
 <br>
 
 ## * NLP
 > "Brunch Networking <br>
-> 머신러닝을 활용한 Text 자동 분류 및 추천 App
+> 머신러닝을 활용한 Text 자동 분류 및 추천 시스템
 
 <br>
 
