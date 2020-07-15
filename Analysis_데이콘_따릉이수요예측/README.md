@@ -2,6 +2,10 @@
 
 <br>
 
+분석파일(ipynb)가 잘 열리지 않는다면! => [여기](https://nbviewer.jupyter.org/github/bill7845/Portfolio/blob/master/Analysis_%EB%8D%B0%EC%9D%B4%EC%BD%98_%EB%94%B0%EB%A6%89%EC%9D%B4%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1/%EB%94%B0%EB%A6%89%EC%9D%B4_%EC%88%98%EC%9A%94_%EC%98%88%EC%B8%A1.ipynb) 
+
+<br>
+
 ### < 모델링 목적 >
 * 주어진 데이터(2017년 4월 1일부터, 5월 31일까지 시간별로 서울시 따릉이 대여수와 기상상황 데이터)를 바탕으로 1시간 후의 따릉이 대여수 예측
 
