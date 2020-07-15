@@ -2,7 +2,7 @@
 
 <br>
 
-<b> Original Repogitory = > [Brunch_Networking Repository](https://github.com/bill7845/project_brunchNetworking_streamlit) </b>
+<b> Original Repository = > [Brunch_Networking Repository](https://github.com/bill7845/project_brunchNetworking_streamlit) </b>
 
 <br>
 
