@@ -2,6 +2,10 @@
 
 <br>
 
+<b> Original Repogitory = > [Brunch_Networking Repository](https://github.com/bill7845/project_brunchNetworking_streamlit) </b>
+
+<br>
+
 ## <b> 브런치 작가를 위한 Text 분류모델과 추천시스템 </b>
 
 
