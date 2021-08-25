@@ -1,13 +1,7 @@
 # < Brunch Networking >
 
-<br>
-
-<b> Original Repository = > [Brunch_Networking Repository](https://github.com/bill7845/project_brunchNetworking_streamlit) </b>
-
-<br>
 
 ## <b> 브런치 작가를 위한 Text 분류모델과 추천시스템 </b>
-
 
 
 글쓰기 플랫폼 "Brunch"를 아시나요?
@@ -24,7 +18,7 @@
 
 ![프로젝트 흐름도](https://user-images.githubusercontent.com/35517797/83950017-8cc1e480-a862-11ea-8d78-58c0a0671794.PNG)
 
-<br>>
+<br>
 
 프로젝트 아키텍처입니다. AWS EC2를 활용해 Streamlit 어플리케이션을 배포하였습니다. 수집 된 데이터는 GCP의 Bigquery를 통해 저장하였으며 모델, json, pickle등의 File 산출물은 S3를 통해 저장하고 로딩하였습니다. 어플리케이션을 실행함에 따라 생성되는 User Activity 데이터는 AWS의 RDS를 통해 저장,관리하였습니다.
 
