@@ -5,13 +5,13 @@
 ## * Analytics
 > Dacon_전력 수요량 예측 모델링 <br>
 > Dacon_따릉이 수요 예측 모델링 <br>
-> CRM_온라인 상점 데이터 분석
+> Analysis_온라인 상점 데이터 분석
 
 <br>
 
 ## * NLP
 > "`Brunch Networking`" <br>
-> 머신러닝을 활용한 Text 자동 분류 및 추천 시스템
+> 머신러닝을 활용한 Text 자동 분류 및 추천 시스템 https://github.com/bill7845/brunch_networking_aws
 
 <br>
 
