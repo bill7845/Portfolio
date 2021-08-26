@@ -11,7 +11,9 @@
 
 ## * NLP
 > "`Brunch Networking`" <br>
-> 머신러닝을 활용한 Text 자동 분류 및 추천 시스템 https://github.com/bill7845/brunch_networking_aws
+> 머신러닝을 활용한 Text 자동 분류 및 추천 시스템 <br>
+> Repository : https://github.com/bill7845/brunch_networking_aws <br>
+> Service url : http://13.125.210.134:8501
 
 <br>
 
