@@ -2,7 +2,7 @@
 
 <br>
 
-<b> 분석파일(ipynb) 로딩을 빠르게! = >  [여기](https://nbviewer.jupyter.org/github/bill7845/Portfolio/blob/master/CRM/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%86%8C%EB%A7%A4%EC%83%81%EC%A0%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)를 클릭해주세요. </b>
+<b> 분석파일(ipynb) 로딩을 빠르게! = >  [여기](https://nbviewer.jupyter.org/github/bill7845/Portfolio/blob/80914ba9ebf4caabab2eb9a6e4c3e7938e9db6bc/Analysis_Retail_Shop/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%86%8C%EB%A7%A4%EC%83%81%EC%A0%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)를 클릭해주세요. </b>
 
 <br>
 
